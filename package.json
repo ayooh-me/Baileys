@@ -1,6 +1,6 @@
 {
-  "name": "baileys-wa",
-  "version": "10.0.0",
+  "name": "baileys",
+  "version": "7.0.0",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,23 +12,11 @@
     "whatsapp-group",
     "automation",
     "multi-device",
-    "ttdl",
-    "tiktok",
-    "tiktok scraper",
-    "tiktok no watermark",
-    "tiktok no wm",
-    "ttnowm",
-    "ytdl",
-    "ytmp3",
-    "ytmp4",
-    "youtube",
-    "instagram",
-    "instagram-dl",
-    "igdl"
+    "fixed"
   ],
-  "homepage": "https://github.com/ruhend2001/maleficent",
+  "homepage": "https://github.com/ayooh-us",
   "repository": {
-    "url": "https://github.com/ruhend2001/maleficent"
+    "url": "https://github.com/ayooh-us"
   },
   "license": "GNU",
   "author": "Adhiraj Singh",
